@@ -89,6 +89,14 @@ source.connect(ac.destination);
 source.start();
 ```
 
+<button onclick="s04_eBuf()">Play</button>
+<button onclick="s04_eBuf(-500)">Play at -500 cents (5 semitones below)</button>
+
+@note - Here we're loading a sound file into a buffer and playing it
+- We can change the pitch by using the k-rate `detune` parameter
+
+---
+
 Load audio into buffer
 
 ```js
@@ -107,12 +115,6 @@ async function loadAudioFile(src, ac) {
     }
 }
 ```
-
-<button onclick="s04_eBuf()">Play</button>
-<button onclick="s04_eBuf(-500)">Play at -500 cents (5 semitones below)</button>
-
-@note - Here we're loading a sound file into a buffer and playing it
-- We can change the pitch by using the k-rate
 
 ---
 
@@ -158,8 +160,3 @@ registerProcessor(
 ```
 
 <button onclick="s04_eWork()">Play</button>
-
----
-
-## Effects
-
