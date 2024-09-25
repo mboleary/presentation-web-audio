@@ -158,3 +158,8 @@ registerProcessor(
 ```
 
 <button onclick="s04_eWork()">Play</button>
+
+---
+
+## Effects
+

@@ -19,6 +19,10 @@ https://en.wikipedia.org/wiki/A440_(pitch_standard)
 ![additive mixing](assets/add_mix.png)
 A4 (440Hz) + D5(587.33Hz)
 
+@note - Talk about how audio is mixed together
+- Screenshot from Audacity where 2 waves are combined together
+- mention "peaking" if signal too hot
+
 ---
 
 ## Sample Rate
@@ -27,7 +31,9 @@ A4 (440Hz) + D5(587.33Hz)
 
 44.1kHz (CD Quality) and 48kHz (DVD Quality) are the common standards
 
-@note - Nyquist–Shannon sampling theorem: sample rate must be twice the signal bandwidth to avoid aliasing
+@note - Samples are points of sound
+    - discrete samples of a continuous waveform
+- Nyquist–Shannon sampling theorem: sample rate must be twice the signal bandwidth to avoid aliasing
 - mismatching sample rates can lead to artifacting or playback at the wrong speed in some software
     - just like resizing an image
 

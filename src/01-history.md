@@ -7,14 +7,14 @@
 
 ![html5](assets/HTML5_logo_and_wordmark.svg) <!-- .element style="height: 500px" -->
 
-@note - HTML 5 Audio / Video Tag
+@note - HTML 5 Audio / Video Tag in early 2010s
 
 ---
 
 ![mozilla](assets/Mozilla_logo.svg)
 https://wiki.mozilla.org/Audio_Data_API
 
-@note - Mozilla Audio Data API
+@note - Mozilla Audio Data API in early 2010s
 
 ---
 
