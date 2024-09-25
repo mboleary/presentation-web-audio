@@ -6,7 +6,3 @@ function s02_a440 () {
     osc.stop(ac.currentTime + 0.5);
     osc.connect(ac.destination);
 }
-
-Object.assign(window, {
-    s02_a440
-});
