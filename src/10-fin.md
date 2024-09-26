@@ -20,3 +20,4 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/BiquadFilterNode
 - https://en.wikipedia.org/wiki/Impulse_response
 - https://www.youtube.com/watch?v=spUNpyF58BY
+- https://en.wikipedia.org/wiki/Equal_temperament

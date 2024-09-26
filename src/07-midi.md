@@ -25,6 +25,14 @@
 
 ---
 
+## How do we convert from Midi Notes to Frequencies?
+
+- A440 = midi note 69
+- https://en.wikipedia.org/wiki/Equal_temperament
+- [noteToFrequencyEqualTemperment](https://github.com/mboleary/test-ts-game/blob/music_engine_fe/package/music_engine/src/util/noteToFrequency.ts)
+
+---
+
 ## Getting Permission
 
 - [MidiAccess in music_engine](https://github.com/mboleary/test-ts-game/blob/music_engine_fe/package/music_engine/src/subsystem/midi/MidiAccess.ts)
