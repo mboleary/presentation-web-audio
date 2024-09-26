@@ -1,6 +1,8 @@
 ## Web Midi API
 
-@note - 
+@note - let's change gears and talk about midi
+- midi doesn't carry and audio data, only triggers sounds
+- like a serial protocol
 
 ---
 
@@ -12,6 +14,12 @@
 - channel & status
 - key (0 - 128)
 - velocity (volume)
+
+@note - Commands in linux
+- `arecordmidi -l` to get ports
+- `aseqdump -p 20:0` to show midi commands in a human readable way
+- `amidi -l` to get ports (needed for next step)
+- `amidi --dump -p hw:1,0,0` to show raw bytes
 
 ---
 
