@@ -1,10 +1,17 @@
 # Analysis
 
-@note - TODO
+@note - How can we analyse audio?
 
 ---
 
 ## Fourier Transform
+
+![discrete fourier transform equation](assets/fourier.svg)
+
+- Used to get frequencies out of a waveform
+
+@note - this can also go the other way around with an inverse transform
+- Luckily we don't have to do the math or implementation of that
 
 ---
 
@@ -23,6 +30,5 @@ analyser.getByteTimeDomainData(dataArray);
 ...
 ```
 
----
-
-@note - I just threw a lot of information at you
+@note - If you rememebr that custom waveform I talked about earlier with the OscillatorNode, that's implementing the inverse fourier transform to generate the waveform from the frequencies
+- (take a break) I just threw a lot of information at you

@@ -43,7 +43,7 @@ osc.connect(ac.destination);
 
 Types: 
 - a-rate - Current parameter value for each sample frame
-- k-rate
+- k-rate - same initial audio parameter for the whole block processed (128 sample frames)
 
 ```js
 ...

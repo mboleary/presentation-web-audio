@@ -7,3 +7,6 @@
 - https://en.wikipedia.org/wiki/Hearing_range
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Best_practices
 - https://en.wikipedia.org/wiki/Cent_%28music%29
+- https://developer.mozilla.org/en-US/docs/Web/API/BiquadFilterNode
+- https://en.wikipedia.org/wiki/Impulse_response
+- https://www.youtube.com/watch?v=spUNpyF58BY

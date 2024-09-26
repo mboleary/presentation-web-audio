@@ -94,6 +94,7 @@ source.start();
 
 @note - Here we're loading a sound file into a buffer and playing it
 - We can change the pitch by using the k-rate `detune` parameter
+- `cents` are a division of a semitone
 
 ---
 
