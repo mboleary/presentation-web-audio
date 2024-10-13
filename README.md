@@ -2,6 +2,8 @@
 
 This is the presentation I gave at [Silicon Swamp](https://www.siliconswamp.org/) on 26 September 2024, which you may [watch a recording of here](https://www.youtube.com/watch?v=ncok8HPDerY).
 
+You can [see this presentation here](https://deadcomputersociety.com/extern/presentation-web-audio/).
+
 This presentation covers:
 - Web Audio API
 - Web Midi API
